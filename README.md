@@ -1,16 +1,35 @@
-## Hi there 👋
+👋 Hi, I'm Anandita Parihar!
 
-<!--
-**28-ananditaparihar-debug/28-ananditaparihar-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 PGDM Student | Marketing & Branding Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a PGDM student interested in marketing, consumer behaviour, brand management, and business strategy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 About Me
+
+- 📢 Interested in Marketing, Branding, and Advertising
+- 🛍️ Exploring Consumer Behaviour and Customer Engagement
+- 📱 Learning about Digital Marketing and Social Media Marketing
+- 💡 Interested in Business Strategy and Entrepreneurship
+- 📚 Always eager to learn new skills and explore new ideas
+
+🎯 Areas of Interest
+
+- Marketing Strategy
+- Brand Positioning
+- Consumer Behaviour
+- Digital Marketing
+- Advertising Campaigns
+- Business Case Studies
+
+🚀 What I'm Working Towards
+
+- Building my knowledge of marketing concepts
+- Exploring real-world brand case studies
+- Developing creative problem-solving skills
+- Creating projects related to marketing and business
+
+🤝 Let's Connect!
+
+I'm open to learning opportunities, sharing ideas, and collaborating on marketing and business-related projects.
+
+✨ Learning, growing, and building my professional journey one step at a time!
